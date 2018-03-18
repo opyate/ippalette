@@ -1,4 +1,4 @@
-var ip_api = "http://jsonip.com/";
+var ip_api = "https://jsonip.com/";
 
 var draw = function(ip) {
   $('#ip').html(ip);
