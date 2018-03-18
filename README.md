@@ -1,3 +1,3 @@
-# IP Pallet
+# IP Palettte
 
-A micro site that creates and displays a color pallet based on the viewers ip address.
+A micro site that creates and displays a color palette based on the viewer's IP address.
